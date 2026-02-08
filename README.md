@@ -1,7 +1,5 @@
 # RISKR: Cyberpunk Solana PVP Arena ⚔️
 
-> **50/50 Odds. 100% Adrenaline. Prove your luck on-chain.**
-
 ## 💡 Inspiration
 We wanted to bring the purest form of gambling—Rock Paper Scissors—onto the blockchain.
 
