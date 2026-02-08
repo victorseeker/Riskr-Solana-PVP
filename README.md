@@ -22,7 +22,7 @@ RISKR is a decentralized mobile game where players stake **$SKR** tokens in high
 ## 📱 Screenshots
 | Lobby | Burn | Profile |
 |:---:|:---:|:---:|
-| !(assets/lobby.webp) | !(assets/burn.webp) | !(assets/profile.webp) |
+| ![Lobby Image](assets/lobby.webp) | ![Burn Image](assets/burn.webp) | ![Profile Image](assets/profile.webp) |
 
 ## 🔧 How to run
 
