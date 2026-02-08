@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "321956076317",
+    "project_id": "riskr-8447f",
+    "storage_bucket": "riskr-8447f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321956076317:android:74fe0d3db4cca811175ff4",
+        "android_client_info": {
+          "package_name": "com.riskr.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoTmcbMX2sJgutRy-HO9DEQ4X0RQkV7l4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

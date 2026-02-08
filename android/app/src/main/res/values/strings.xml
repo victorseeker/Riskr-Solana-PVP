@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Riskr</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_rank">Rank</string>
+    <string name="nav_alarm">Challenge</string>
+    <string name="nav_profile">Profile</string>
+    <string name="home_pool_title">Daily Pool</string>
+    <string name="home_participants">Participants</string>
+    <string name="home_slogan">Be a Riskr. Wake Up Richer.</string>
+    <string name="rank_title">Leaderboard 🏆</string>
+    <string name="rank_days">Streak</string>
+    <string name="profile_edit_hint">(Click name to edit)</string>
+    <string name="alarm_title">Set Challenge</string>
+    <string name="alarm_target">Target: Wake up at 8:00 AM</string>
+    <string name="alarm_stake">Stake 50 SKR</string>
+    <string name="alarm_verify">Wake Up &amp; Verify</string>
+    <string name="alarm_hint">You only have 2 mins to verify after alarm rings!</string>
+    <string name="msg_too_early">Challenge in progress! Please come back after 08:00 AM to stake for tomorrow.</string>
+    <string name="err_permission_alarm">Cannot set exact alarm. Permission denied.</string>
+    <string name="profile_connect">Connect Your Seeker</string>
+    <string name="profile_connected">Connected:</string>
+    <string name="profile_balance_title">Balance</string>
+    <string name="profile_disconnect">Disconnect</string>
+    <string name="profile_language">Language / 语言</string>
+    <string name="profile_username">Username</string>
+    <string name="profile_save">Save</string>
+    <string name="msg_connect_first">Please Connect Wallet</string>
+    <string name="msg_no_balance">No SKR Balance</string>
+    <string name="msg_stake_success">Stake Success! Alarm set for 8:00 AM</string>
+    <string name="msg_verify_success">Verified! Rewards will be sent at 08:05 after pool settlement.</string>
+    <string name="msg_verifying">Verifying...</string>
+    <string name="msg_too_late">Too late! The 2-minute window has expired.</string>
+</resources>

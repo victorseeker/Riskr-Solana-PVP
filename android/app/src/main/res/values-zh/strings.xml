@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Riskr</string>
+
+    <string name="nav_home">首页</string>
+    <string name="nav_rank">排行</string>
+    <string name="nav_alarm">挑战</string>
+    <string name="nav_profile">我的</string>
+
+    <string name="home_pool_title">今日挑战奖池</string>
+    <string name="home_participants">当前参与人数</string>
+    <string name="home_slogan">早起的鸟儿有虫吃！</string>
+    <string name="profile_edit_hint">(点击用户名修改)</string>
+    <string name="rank_title">排行榜 🏆</string>
+    <string name="rank_days">连续打卡</string>
+    <string name="alarm_title">设置明日挑战</string>
+    <string name="alarm_target">目标：每天 8:00 AM 起床</string>
+    <string name="alarm_stake">质押 50 SKR</string>
+    <string name="alarm_verify">起床验证</string>
+    <string name="alarm_hint">点击质押 50 SKR。明早8点，你只有 2 分钟点击验证并取回资金！</string>
+    <string name="msg_too_early">早起挑战进行中！请在今天 8:00 之后再来下注明天的挑战。</string>
+    <string name="err_permission_alarm">无法设置精确闹钟，权限不足。</string>
+    <string name="profile_connect">连接钱包</string>
+    <string name="profile_connected">已连接:</string>
+    <string name="profile_balance_title">钱包余额</string>
+    <string name="profile_disconnect">断开连接</string>
+    <string name="profile_language">语言 / Language</string>
+    <string name="profile_username">用户名</string>
+    <string name="profile_save">保存</string>
+    <string name="msg_connect_first">请先连接钱包</string>
+    <string name="msg_no_balance">余额不足 (无 SKR)</string>
+    <string name="msg_stake_success">挑战成功！闹钟已设为明早 8:00</string>
+    <string name="msg_verify_success">验证成功！奖金将在 08:05 结算后发放。</string>
+    <string name="msg_verifying">正在验证...</string>
+    <string name="msg_too_late">太晚了！2分钟验证时间已过。</string>
+</resources>
