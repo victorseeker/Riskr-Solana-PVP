@@ -7,7 +7,7 @@ We wanted to bring the purest form of gambling—Rock Paper Scissors—onto the 
 
 ## 🚀 What it does
 RISKR is a decentralized mobile game where players stake **$SKR** tokens in high-stakes 1v1 duels.
-* **Lobby System**: Create or join rooms with 10, 100, or 500 SKR bets.
+* **Lobby System**: Create or join rooms with 50, 100, or 500 SKR bets.
 * **Winner Takes All**: The winner gets the pot (minus a small platform fee).
 * **Incinerator**: A feature to permanently burn tokens, driving scarcity.
 * **Fairness**: Draws are automatically fully refunded.
